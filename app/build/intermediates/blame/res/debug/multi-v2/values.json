@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Administrator\\AndroidStudioProjects\\AToZ\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\AToZ\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,8,9,6,3,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "121,274,334,166,59,223",
+                        "endColumns": "41,58,82,55,60,49",
+                        "endOffsets": "158,328,412,217,115,268"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,97,156,239,295,356",
+                        "endColumns": "41,58,82,55,60,49",
+                        "endOffsets": "92,151,234,290,351,401"
+                    }
+                }
+            ]
+        }
+    ]
+}
